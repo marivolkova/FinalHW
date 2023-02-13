@@ -1,0 +1,15 @@
+/Users/marinavolkova/Desktop/FinalHW/bin/Debug/net7.0/FinalHW
+/Users/marinavolkova/Desktop/FinalHW/bin/Debug/net7.0/FinalHW.deps.json
+/Users/marinavolkova/Desktop/FinalHW/bin/Debug/net7.0/FinalHW.runtimeconfig.json
+/Users/marinavolkova/Desktop/FinalHW/bin/Debug/net7.0/FinalHW.dll
+/Users/marinavolkova/Desktop/FinalHW/bin/Debug/net7.0/FinalHW.pdb
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.csproj.AssemblyReference.cache
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.AssemblyInfoInputs.cache
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.AssemblyInfo.cs
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.csproj.CoreCompileInputs.cache
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.dll
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/refint/FinalHW.dll
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.pdb
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/FinalHW.genruntimeconfig.cache
+/Users/marinavolkova/Desktop/FinalHW/obj/Debug/net7.0/ref/FinalHW.dll
